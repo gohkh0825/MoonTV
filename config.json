@@ -74,7 +74,7 @@
       "name": "旺旺短剧"
     },
       "hhzy": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhyun/at/json",
       "name": "豪华资源"
     },
       "okzyw": {
