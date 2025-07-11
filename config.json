@@ -73,6 +73,14 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+      "hhzy": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+      "okzyw": {
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+      "name": "OK资源"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
