@@ -74,13 +74,65 @@
       "name": "旺旺短剧",
       "detail": "https://api.wwzy.tv/index.php/vod/type/id/1.html"
     },
-      "okzyw": {
+    "okzyw": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "OK资源"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "niuniu": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "name": "牛牛"
+    },
+    "yaya": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "name": "丫丫"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "name": "U酷"
+    },
+    "haohua": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛"
+    },
+    "shandian": {
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电"
+    },
+    "baidu": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度"
+    },
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "name": "速博"
+    },
+    "modu": {
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "name": "魔都"
+    },
+    "huohu": {
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "name": "火狐"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪"
     }
   }
 }
