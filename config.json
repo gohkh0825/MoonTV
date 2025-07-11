@@ -70,7 +70,7 @@
       "name": "无尽资源"
     },
     "wwzy": {
-      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧",
       "detail": "https://api.wwzy.tv/index.php/vod/type/id/1.html"
     },
