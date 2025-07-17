@@ -63,15 +63,19 @@
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
+      "name": "魔爪资源",
+      "detail": "https://mozhuazy.com"
+      
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+      "name": "魔都资源",
+      "detail": "https://www.mdzyapi.com"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+      "name": "最大资源",
+      "detail": "https://api.zuidapi.com"
     },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
