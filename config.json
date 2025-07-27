@@ -84,6 +84,13 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "mtzy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8",
+      "name": "茅台资源",
+      "detail": "https://mtzy.me"
+    
     }
   }
 }
+
